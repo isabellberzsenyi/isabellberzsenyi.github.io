@@ -42,6 +42,10 @@ h4, h5, a {
 	color: #84A9BF;
 }
 
+a {
+	font-weight: bold;
+}
+
 a:hover {
 	color: #D1C4CE;	
 	text-decoration: none;
@@ -127,7 +131,6 @@ a:hover {
 
 .left-space {
 	padding-left: 1.5rem;
-	/*padding-right: 0;*/
 }
 
 ul {
@@ -349,6 +352,7 @@ header {
 	font-weight: bold;
 	border-top: 1px solid #142611;
 	padding-bottom: .5rem;
+	padding-top: .5rem;
 }
 
 /* Contact */
