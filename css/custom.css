@@ -109,7 +109,9 @@ a:hover {
 /*  make it so when it's below a certain pixel it is aligned center */
 
 @media screen and (max-width: 800px) {
-	#position-left {
+	#position-left,
+	#position-right,
+	#position-center {
 		text-align: center;
 	}
 }
