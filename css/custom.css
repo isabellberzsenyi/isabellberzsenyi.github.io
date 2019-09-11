@@ -237,6 +237,10 @@ header {
 	text-align: justify;
 }
 
+/* Relevant courses */
+#p-justify {
+	text-align: justify;
+}
 /* Project Section */
 #project-card {
 	height: 16rem;
